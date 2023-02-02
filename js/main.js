@@ -14,11 +14,11 @@ const imageArray = [
 ];
 /* Declaring the alternative text for each image file */
 const altTestArray = {
-    'pic1.png' : 'closeup of a human eye',
-    'pic2.png' : 'arial view of the dessert', 
-    'pic3.png' : 'closeup of purple and white flowers', 
-    'pic4.png' : 'ancient Egyptian hieroglyphics', 
-    'pic5.png' : 'closeup of moth on a leaf'
+    'pic1.png' : 'My cat Panther in the sun',
+    'pic2.png' : 'My cat Neville sleeping in a basket', 
+    'pic3.png' : 'My cat Kyro laying like Jaba the hut', 
+    'pic4.png' : 'My cat Tux guarding the couch', 
+    'pic5.png' : 'Panther playing in his play cube'
 }
 /* Looping through images Loop through the array of filenames, 
     and for each one, insert an <img> element inside the thumb-bar <div>
